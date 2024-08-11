@@ -1,0 +1,9 @@
+.wrapper {
+    height: auto;
+    padding: 20px;
+    width: 100%;
+
+    flex-grow: 1; // to make it take the rest of the space
+    box-sizing: border-box; // width and height include padding and border
+}
+
